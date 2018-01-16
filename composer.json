@@ -1,0 +1,21 @@
+{
+  "name": "Project_immoc_01",
+  "version": "0.0.1",
+
+  "require": {
+    "php":">= 5.3",
+    "monolog/monolog": "1.0.*",
+    "symfony/var-dumper":"*",
+    "catfan/medoo":"*",
+    "twig/twig": "~1.0"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+
+}
+
+

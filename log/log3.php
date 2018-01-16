@@ -1,0 +1,5 @@
+[2018-01-08 12:52:43] name.WARNING: Foo [] []
+[2018-01-08 12:54:47] name.WARNING: Foo [] []
+[2018-01-08 12:55:09] name.WARNING: Foo [] []
+[2018-01-08 12:55:10] name.WARNING: Foo [] []
+[2018-01-08 12:55:10] name.WARNING: Foo [] []
